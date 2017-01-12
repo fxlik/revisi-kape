@@ -18,3 +18,6 @@ Route::get('/', function () {
 Route::get('/index', function(){
 	return view('admin.index');
 });
+Route::auth();
+
+Route::get('/home', 'HomeController@index');

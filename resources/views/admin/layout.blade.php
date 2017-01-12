@@ -42,66 +42,6 @@
             <a class="navbar-brand" href="#">P2IG UNTAN</a>
 		</div>
 		<ul class="nav navbar-nav navbar-right">
-			<li class="dropdown">
-	        	<a href="#" class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false"><i class="fa fa-comments-o"></i><span class="badge">4</span></a>
-	        	<ul class="dropdown-menu">
-					<li class="dropdown-menu-header">
-						<strong>Messages</strong>
-						<div class="progress thin">
-							<div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 40%">
-							    <span class="sr-only">40% Complete (success)</span>
-							  </div>
-						</div>
-					</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/1.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-								<span class="label label-info">NEW</span>
-							</a>
-						</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/2.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-								<span class="label label-info">NEW</span>
-							</a>
-						</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/3.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-							</a>
-						</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/4.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-							</a>
-						</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/5.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-							</a>
-						</li>
-						<li class="avatar">
-							<a href="#">
-								<img src="images/pic1.png" alt=""/>
-								<div>New message</div>
-								<small>1 minute ago</small>
-							</a>
-						</li>
-						<li class="dropdown-menu-footer text-center">
-							<a href="#">View all messages</a>
-						</li>	
-	        		</ul>
-	      		</li>
 			    <li class="dropdown">
 	        		<a href="#" class="dropdown-toggle avatar" data-toggle="dropdown"><img src="images/1.png"><span class="badge">9</span></a>
 	        		<ul class="dropdown-menu">
@@ -135,7 +75,7 @@
                     	<a href="index.html"><i class="fa fa-dashboard fa-fw nav_icon"></i>Dashboard</a>
                     </li>
                     <li>
-                    	<a href="#"><i class="fa fa-tasks nav_icon"></i>Kuesioner<span class="fa arrow"></span></a>
+                    	<a href="#"><i class="fa fa-question nav_icon"></i>Kuesioner<span class="fa arrow"></span></a>
                         <ul class="nav nav-second-level">
                             <li>
                                 <a href="#">Kategori</a>
